@@ -5,7 +5,11 @@
 
 ### GrubHub is a simple food ordering app. GrubHub is built using HTML, CSS and JavaScript.
 
-TODO: Please note that the JavaScript portion and beautifying the pages using Bootstrap is work in progress.
+TODO: 
+- [ ] Please note that the JavaScript portion.
+- [ ] Beautifying the pages using [ ] Bootstrap is work in progress.
+- [ ] Adding validations to Forms & Fields.
+- [ ] Adding Payment validations.
 
 ### Registration
 
