@@ -15,28 +15,28 @@ TODO:
 
 The App allows new users to register using the Registration form.
 
-![Registration Screen](image.png)
+![Registration Screen](./images/image.png)
 
 ### Login
 
 If the user has previously registered they can follow the Login page.
 
-![Login Page](image-1.png)
+![Login Page](./images/image-1.png)
 
 ### Order
 
 The Ordering page is WIP
 
-![Order Page](image-2.png)
+![Order Page](./images/image-2.png)
 
 ### Payment
 
 The payment page lets the users to pay using their card.
 
-![Payment Page](image-4.png)
+![Payment Page](./images/image-4.png)
 
 ### Success
 
 The success page notifies the successful payment.
 
-![Success Page](image-3.png)
+![Success Page](./images/image-3.png)
